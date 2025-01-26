@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "nom": "amine",
+            "email": "amine@gmail.com"
+        },
+        {
+            "nom": "yassine atigui",
+            "email": "atigui@gmail.com"
+        }
+    ],
+    "projets": [
+        {
+            "nom": "Site Web",
+            "description": "Développement du site web",
+            "user": "amine",
+            "taches": [
+                {
+                    "titre": "Faire le design",
+                    "description": "Design de l'interface utilisateur",
+                    "statut": "à faire",
+                    "user": "amine"
+                }
+            ]
+        },
+        {
+            "nom": "mobile app",
+            "description": "Développement du site web",
+            "user": "yassine atigui",
+            "taches": [
+                {
+                    "titre": "Faire le design",
+                    "description": "Design de l'interface utilisateur",
+                    "statut": "à faire",
+                    "user": "yassine atigui"
+                }
+            ]
+        }
+    ]
+}
